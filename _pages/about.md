@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me:"
+title: "Hi there! I'm Ani."
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I'm Ani.
-==
 I am currently a graduate student pursuing my PhD in the Electrical Engineering department at Princeton University. I am advised by [Miklos Racz](https://mracz.princeton.edu) and [H. Vincent Poor](https://ee.princeton.edu/people/h-vincent-poor). I work on inference problems arising in network science. Recent topics of interest to me include models of randomly growing graphs (e.g., Preferential Attachment) and  
 
 Selected Publications:
