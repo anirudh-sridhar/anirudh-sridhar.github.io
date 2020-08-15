@@ -11,9 +11,8 @@ I am currently a graduate student pursuing my PhD in the Electrical Engineering 
 
 Selected Publications:
 ==
-1. **A. Sridhar**, H. V. Poor. *Sequential Estimation of Network Cascades.* [Preprint.](https://https://arxiv.org/abs/1912.03800)
-Accepted as an invited talk at CISS 2020.
-2. B. Swenson, **A. Sridhar**, H. V. Poor. *On Distributed Stochastic Gradient Algorithms for Global Optimization.* [Preprint.](https://https://arxiv.org/abs/1910.09587)
-Accepted as an invited talk at ICASSP 2020. 
+1. B. Swenson, **A. Sridhar**, H. V. Poor. *On Distributed Stochastic Gradient Algorithms for Global Optimization.* In *Proceedings of of IEEE Conference on Acoustics, Speech and Signal Processing*, pages 8594-8598, 2020b. [IEEE version](https://ieeexplore.ieee.org/abstract/document/9054279) [arXiv version](https://https://arxiv.org/abs/1910.09587)
+2. **A. Sridhar**, H. V. Poor. *Sequential Estimation of Network Cascades.* May 2020. **Accepted to Asilomar 2020.** [arXiv version](https://arxiv.org/abs/1912.03800)
+3. M. Z. Rácz, **A. Sridhar**. *Correlated Randomly Growing Graphs.* April 2020. Preprint. [arXiv version](https://arxiv.org/abs/2004.13537)
 
 
