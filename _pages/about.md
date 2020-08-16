@@ -9,7 +9,9 @@ redirect_from:
 ---
 I am currently a graduate student pursuing my PhD in the Electrical Engineering department at Princeton University. I am advised by [Miklós Rácz](https://mracz.princeton.edu) and [H. Vincent Poor](https://ee.princeton.edu/people/h-vincent-poor). Before starting grad school, I completed my Bachelor's degree in Electrical and Computer Engineering (ECE) at Carnegie Mellon University, where I worked with [Jeremiah Blocki](https://www.cs.purdue.edu/homes/jblocki/) and [Soummya Kar](https://users.ece.cmu.edu/~soummyak/).  
 
-Broadly, my research interests are in network science, applied probability and statistics. My current work focuses on models of randomly growing graphs (such as Preferential Attachment) and network cascades. Previously, I have worked on topics in game theory and privacy. 
+Broadly, my research interests are in network science, applied probability and statistics. My current work focuses on models of randomly growing graphs (such as Preferential Attachment) and network cascades. Previously, I have worked on topics in game theory and privacy.  
+
+**Update:** Check out [my talk](https://www.youtube.com/watch?v=nbpFvvxoqTE&t=508s) on Correlated Randomly Growing Graphs, which is part of the IMS-Bernoulli One World Symposium!  
 
 Selected Publications:
 ==
