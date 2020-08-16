@@ -1,8 +1,11 @@
 ---
-layout: archive
+permalink: /
 title: "Preprints"
-permalink: /publications/
+excerpt: "About me"
 author_profile: true
+redirect_from:
+  - /publications/
+  - /publications.html
 ---
 * *Sequential Estimation of Network Cascades*, May 2020.  
 **Anirudh Sridhar**, H. Vincent Poor.  
