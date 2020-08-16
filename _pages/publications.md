@@ -23,3 +23,8 @@ Conference Papers
 Brian Swenson, **Anirudh Sridhar**, H. Vincent Poor.  
 ICASSP 2020, pages 8594-8598.  
 [[IEEE version]](https://ieeexplore.ieee.org/abstract/document/9054279) [[arXiv version]](https://arxiv.org/abs/1910.09587)  
+
+* *Client-CASH: Protecting Master Passwords Against Offline Attacks*, May 2016.  
+Jeremiah Blocki, **Anirudh Sridhar**.  
+ASIACCS 2016, pages 165-176.  
+[[ACM version]](https://dl.acm.org/doi/abs/10.1145/2897845.2897876) [[arXiv version]](https://arxiv.org/abs/1603.00913)  
