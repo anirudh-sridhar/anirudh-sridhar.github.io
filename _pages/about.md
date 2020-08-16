@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a graduate student pursuing my PhD in the Electrical Engineering department at Princeton University. I am advised by [Miklos Racz](https://mracz.princeton.edu) and [H. Vincent Poor](https://ee.princeton.edu/people/h-vincent-poor). I work on inference problems arising in network science. Recent topics of interest to me include models of randomly growing graphs (e.g., Preferential Attachment) and  
+I am currently a graduate student pursuing my PhD in the [Electrical Engineering department at Princeton University](ee.princeton.edu). I am advised by [Miklós Rácz](https://mracz.princeton.edu) and [H. Vincent Poor](https://ee.princeton.edu/people/h-vincent-poor). Before starting grad school, I completed my Bachelor's degree in [Electrical and Computer Engineering (ECE) at Carnegie Mellon University](ece.cmu.edu), where I worked with [Jeremiah Blocki](https://www.cs.purdue.edu/homes/jblocki/) and [Soummya Kar](https://users.ece.cmu.edu/~soummyak/).  
+
+Broadly, my research interests are in network science, applied probability and statistics. My current work focuses on models of randomly growing graphs (such as Preferential Attachment) and network cascades. Previously, I have worked on topics in game theory and privacy. 
 
 Selected Publications:
 ==
