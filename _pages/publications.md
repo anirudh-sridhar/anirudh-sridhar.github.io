@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Talks"
 author_profile: true
 ---
-*Correlated Randomly Growing Graphs* [[video]](https://www.youtube.com/watch?v=nbpFvvxoqTE)
+*Correlated Randomly Growing Graphs* [[video]](https://www.youtube.com/watch?v=nbpFvvxoqTE)[[poster]](/files/correlated_poster.pdf)
 
 Preprints
 ==
