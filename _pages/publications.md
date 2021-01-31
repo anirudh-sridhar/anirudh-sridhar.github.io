@@ -1,14 +1,8 @@
 ---
 permalink: /publications/
-title: "Talks"
+title: "Journal Preprints"
 author_profile: true
 ---
-*Correlated Randomly Growing Graphs* [[video]](https://www.youtube.com/watch?v=nbpFvvxoqTE) [[poster]](/files/correlated_poster.pdf) [[ppt]](/files/correlated_generals.pdf)  
-* Bernoulli-IMS One World Symposium, August 2020
-* MIT Institute for Foundations of Data Science (MIFODS) Workshop: Learning under Complex Structure, January 2020
-
-Preprints
-==
 * *Correlated Randomly Growing Graphs*, April 2020.  
 Miklós Rácz, **Anirudh Sridhar**.  
 [[arXiv version]](https://arxiv.org/abs/2004.13537)
