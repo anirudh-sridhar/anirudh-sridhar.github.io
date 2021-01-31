@@ -13,6 +13,7 @@ Broadly, my research interests are in network science, applied probability and s
 For more details, check out my [CV](/files/Ani-Sridhar-cv.pdf).
 
 **Recent news:** 
+* (Jan 2021) My paper with Soummya Kar on Mean-field Approximations for Stochastic Population Processes on Networks is now [online!](https://arxiv.org/abs/2101.09644) This is a complex paper which was in the works for a while -- originally, it constituted my senior thesis work in undergrad. Very excited that it is on the way to publication!
 * (Nov 2020) I was selected as a finalist for the INFORMS-APS Best Student Paper Award for my work on Correlated Randomly Growing Graphs.
 * (Aug 2020) I gave a [talk](https://www.youtube.com/watch?v=nbpFvvxoqTE&t=508s) on Correlated Randomly Growing Graphs, as part of the [Bernoulli-IMS One World Symposium](https://www.worldsymposium2020.org/).   
 
