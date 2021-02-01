@@ -3,7 +3,7 @@ permalink: /talks/
 title: "Talks and Presentations"
 author_profile: true
 ---
-* *Quickest Source Estimation of Network Cascades*  
+* *Quickest Source Estimation of Network Cascades* [[video]](https://drive.google.com/file/d/1qsIJy_Ho15pPcufsbt0QZA6UKmWMHn-H/view?usp=sharing) [[ppt]](files/asilomar2020_pdf_slides.pdf)  
 	* Asilomar Conference on Signals and Systems, Nov 2020
 	* PhD Generals, April 2020
 
