@@ -14,13 +14,14 @@ For more details, check out my [CV](/files/Ani-Sridhar-cv.pdf).
 
 **Recent news:** 
 * (Jan 2021) My paper with Soummya Kar on Mean-field Approximations for Stochastic Population Processes on Networks is now [online!](https://arxiv.org/abs/2101.09644) This is a complex paper which was in the works for a while -- originally, it constituted my senior thesis work in undergrad. Very excited that it is on the way to publication!
-* (Nov 2020) I was selected as a finalist for the INFORMS-APS Best Student Paper Award for my work on Correlated Randomly Growing Graphs.
+* (Nov 2020) I was selected as a finalist for the INFORMS-APS Best Student Paper Award for my work on Correlated Randomly Growing Graphs!
+* (Nov 2020) I gave a [talk](https://drive.google.com/file/d/1qsIJy_Ho15pPcufsbt0QZA6UKmWMHn-H/view) on how to estimate the source of a network cascade as fast as possible as part of the Asilomar conference on Signals and Systems. 
 * (Aug 2020) I gave a [talk](https://www.youtube.com/watch?v=nbpFvvxoqTE&t=508s) on Correlated Randomly Growing Graphs, as part of the [Bernoulli-IMS One World Symposium](https://www.worldsymposium2020.org/).   
 
-Selected Publications:
+Selected Papers:
 ==
-1. Y. Tian, **A. Sridhar**, O. Yagan, H. V. Poor. *Analysis of the Impact of Mask-wearing in Viral Spread: Implications for COVID-19.* Sept. 2020. Preprint. [[arXiv version]](https://arxiv.org/abs/2011.04208)
-2. **A. Sridhar**, H. V. Poor. *Sequential Estimation of Network Cascades.* May 2020. **Accepted to Asilomar 2020.** [[arXiv version]](https://arxiv.org/abs/1912.03800)
+1. Y. Tian, **A. Sridhar**, O. Yagan, H. V. Poor. *Analysis of the Impact of Mask-wearing in Viral Spread: Implications for COVID-19.* Sept. 2020. *Accepted to the American Control Conference 2021.* [[arXiv version]](https://arxiv.org/abs/2011.04208)
+2. **A. Sridhar**, H. V. Poor. *Sequential Estimation of Network Cascades.* May 2020. *To appear in the Proceedings of the Asilomar Conference on Signals and Systems 2020.* [[arXiv version]](https://arxiv.org/abs/1912.03800)
 3. M. Z. Rácz, **A. Sridhar**. *Correlated Randomly Growing Graphs.* April 2020. Preprint. [[arXiv version]](https://arxiv.org/abs/2004.13537)
 
 
