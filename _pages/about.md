@@ -15,7 +15,7 @@ For more details, check out my [CV](/files/Ani-Sridhar-cv.pdf).
 **Recent news:** 
 * (Jan 2021) My paper with Soummya Kar on Mean-field Approximations for Stochastic Population Processes on Networks is now [online!](https://arxiv.org/abs/2101.09644) This is a complex paper which was in the works for a while -- originally, it constituted my senior thesis work in undergrad. Very excited that it is on the way to publication!
 * (Nov 2020) I was selected as a finalist for the INFORMS-APS Best Student Paper Award for my work on Correlated Randomly Growing Graphs!
-* (Nov 2020) I gave a [talk](https://drive.google.com/file/d/1qsIJy_Ho15pPcufsbt0QZA6UKmWMHn-H/view) on how to estimate the source of a network cascade as fast as possible as part of the Asilomar conference on Signals and Systems. 
+* (Nov 2020) I gave a [talk](https://drive.google.com/file/d/1qsIJy_Ho15pPcufsbt0QZA6UKmWMHn-H/view) on how to estimate the source of a network cascade as fast as possible as part of the [Asilomar conference on Signals and Systems](https://www.asilomarsscconf.org/webpage/asil20/post_conf.htm). 
 * (Aug 2020) I gave a [talk](https://www.youtube.com/watch?v=nbpFvvxoqTE&t=508s) on Correlated Randomly Growing Graphs, as part of the [Bernoulli-IMS One World Symposium](https://www.worldsymposium2020.org/).   
 
 Selected Papers:
