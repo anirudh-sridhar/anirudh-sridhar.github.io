@@ -19,5 +19,5 @@ author_profile: true
 	* Invited talk at Princeton's Department of Operations Research and Financial Engineering, Nov 2018
 	* Carnegie Mellon's Electrical and Computer Engineering Department Summer Undergraduate Research Symposium, July 2017
 
-* *Client-CASH: Protecting Master Passwords against Offline Attacks* [[ppt]](/files/client-cash_v2)
+* *Client-CASH: Protecting Master Passwords against Offline Attacks* [[ppt]](/files/client-cash_v2.pdf)
 	* ACM ASIACCS Conference, May 2016
