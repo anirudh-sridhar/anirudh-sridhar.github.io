@@ -15,4 +15,6 @@ author_profile: true
 
 * *Mean-field Approximation for Stochastic Population Processes*  
 	* Saint-Flour Probability Summer School, July 2019
-	* Invited talk at Carnegie Mellon Department of Electrical and Computer Engineering, Dec 2018
+	* Invited talk at Carnegie Mellon's Department of Electrical and Computer Engineering, Dec 2018
+	* Invited talk at Princeton's Department of Operations Research and Financial Engineering, Nov 2018
+	* Carnegie Mellon's Electrical and Computer Engineering Department Summer Undergraduate Research Symposium, July 2017
