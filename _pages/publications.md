@@ -1,14 +1,20 @@
 ---
 permalink: /publications/
-title: "Journal Preprints and Submissions"
+title: "Journal Publications"
 author_profile: true
 ---
+* *Modeling and Analysis of the Spread of COVID-19 under a Multiple-Strain Model with Mutations*, Aug 2020.  
+Osman Yagan, **Anirudh Sridhar**, Rashad Eletreby, Simon A. Levin, Joshua B. Plotkin, H. Vincent Poor.  
+*To appear in the Harvard Data Science Review.*  
+[[Preprint]](https://hdsr.mitpress.mit.edu/pub/2q9jiymv/release/1?readingCollection=3974b7e6)  
+
+
+Preprints
+==
 * *Mean-field Approximation for Stochastic Population Processes in Networks Under Imperfect Information*, Jan 2021.  
 **Anirudh Sridhar**, Soummya Kar.  
 [[arXiv version]](https://arxiv.org/abs/2101.09644)
 
-* *Modeling and Analysis of the Spread of COVID-19 under a Multiple-Strain Model with Mutations*, Aug 2020.  
-Osman Yagan, **Anirudh Sridhar**, Rashad Eletreby, Simon A. Levin, Joshua B. Plotkin, H. Vincent Poor.
 
 * *Correlated Randomly Growing Graphs*, April 2020.  
 Miklós Rácz, **Anirudh Sridhar**.  
