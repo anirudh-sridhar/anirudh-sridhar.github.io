@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Journal Publications"
 author_profile: true
 ---
-* *Modeling and Analysis of the Spread of COVID-19 under a Multiple-Strain Model with Mutations*, Aug 2020.  
+* *Modeling and Analysis of the Spread of COVID-19 under a Multiple-Strain Model with Mutations*, March 2021.  
 Osman Yagan, **Anirudh Sridhar**, Rashad Eletreby, Simon A. Levin, Joshua B. Plotkin, H. Vincent Poor.  
 *To appear in the Harvard Data Science Review.*  
 [[Preprint]](https://hdsr.mitpress.mit.edu/pub/2q9jiymv/release/1?readingCollection=3974b7e6)  
