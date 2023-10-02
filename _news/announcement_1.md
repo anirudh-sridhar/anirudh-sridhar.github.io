@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-10-17
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I will be giving a talk and chairing a session at the Informs 2023 conference on *Community Detection in Networks*.
