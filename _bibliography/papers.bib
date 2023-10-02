@@ -3,6 +3,59 @@
 
 @string{aps = {American Physical Society,}}
 
+@inproceedings{machado2023recovering,
+title={{R}ecovering the {G}raph {U}nderlying {N}etworked {D}ynamical {S}ystems under {P}artial {O}bservability: {A} {D}eep {L}earning {A}pproach},
+author={Machado, Sérgio and Sridhar, Anirudh and Gil, Paulo and Henriques, Jorge and Moura, José M. F. and Santos, Augusto},
+year={2023},
+booktitle{Proceedings of the 37th {AAAI} {C}onference on {A}rtificial {I}ntelligence},
+abstract={We study the problem of graph structure identification, i.e., of recovering the graph of dependencies among time series. We model these time series data as components of the state of linear stochastic networked dynamical systems. We assume partial observability, where the state evolution of only a subset of nodes comprising the network is observed. We propose a new feature-based paradigm: to each pair of nodes, we compute a feature vector from the observed time series. We prove that these features are linearly separable, i.e., there exists a hyperplane that separates the cluster of features associated with connected pairs of nodes from those of disconnected pairs. This renders the features amenable to train a variety of classifiers to perform causal inference. In particular, we use these features to train Convolutional Neural Networks (CNNs). The resulting causal inference mechanism outperforms state-of-the-art counterparts w.r.t. sample-complexity. The trained CNNs generalize well over structurally distinct networks (dense or sparse) and noise-level profiles. Remarkably, they also generalize well to real-world networks while trained over a synthetic network -- namely, a particular realization of a random graph.},
+html={https://ojs.aaai.org/index.php/AAAI/article/view/26085},
+bibtex_show={true},
+abbr={AAAI 2023}
+}
+
+@inproceedings{gaudio2022exact,
+title={{E}xact {C}ommunity {R}ecovery in {C}orrelated {S}tochastic {B}lock {M}odels},
+author={Gaudio, Julia and Rácz, Miklós Z. and Sridhar, Anirudh},
+year={2022},
+booktitle={Proceedings of the 35th {A}nnual {C}onference on {L}earning {T}heory},
+abstract={We consider the problem of learning latent community structure from multiple correlated networks. We study edge-correlated stochastic block models with two balanced communities, focusing on the regime where the average degree is logarithmic in the number of vertices. Our main result derives the precise information-theoretic threshold for exact community recovery using multiple correlated graphs. This threshold captures the interplay between the community recovery and graph matching tasks. In particular, we uncover and characterize a region of the parameter space where exact community recovery is possible using multiple correlated graphs, even though (1) this is information-theoretically impossible using a single graph and (2) exact graph matching is also information-theoretically impossible. In this regime, we develop a novel algorithm that carefully synthesizes algorithms from the community recovery and graph matching literatures.},
+html={https://proceedings.mlr.press/v178/gaudio22a},
+bibtex_show={true},
+abbr={COLT 2022}
+}
+
+@article{sridhar2023quickest,
+title={Quickest {I}nference of {N}etwork {C}ascades with {N}oisy {I}nformation},
+author={Sridhar, Anirudh and Poor, H. Vincent},
+journal={IEEE Transactions on Information Theory},
+month={April},
+year={2023},
+volume={69},
+number={4},
+pages={2494 -- 2522},
+abstract={We study the problem of estimating the source of a network cascade given a time series of noisy information about the spread. Initially, there is a single vertex affected by the cascade (the source) and the cascade spreads in discrete time steps across the network. Although the cascade evolution is hidden, one observes a noisy measurement of the evolution at each time step. Given this information, we aim to reliably estimate the cascade source as fast as possible. We investigate Bayesian and minimax formulations of the source estimation problem, and derive near-optimal estimators for simple cascade dynamics and network topologies. In the Bayesian setting, samples are taken until the error of the Bayes-optimal estimator falls below a threshold. For the minimax setting, we design a novel multi-hypothesis sequential probability ratio test. These optimal estimators require $\log \log n / \log (k- 1)$ observations for a $k$-regular tree network, and $(\log n)^{1 / (\ell + 1)}$ observations for a $\ell$-dimensional lattice. We then discuss conjectures on source estimation in general topologies. Finally, we provide simulations which validate our theoretical results on trees and lattices, and illustrate the effectiveness of our methods for estimating the sources of cascades on Erdős-Rényi graphs.},
+bibtex_show={true},
+abbr={IEEE Trans. Info. Theory}
+}
+
+@article{racz2022correlated,
+title={Correlated {R}andomly {G}rowing {G}raphs},
+author={Rácz, Miklós Z. and Sridhar, Anirudh},
+journal={The Annals of Applied Probability},
+month={April},
+year={2022},
+volume={32},
+number={2},
+pages={1058--1111},
+abstract={We introduce a new model of correlated randomly growing graphs and study the fundamental questions of detecting correlation and estimating aspects of the correlated structure. The model is simple and starts with any model of randomly growing graphs, such as uniform attachment (UA) or preferential attachment (PA). Given such a model, a pair of graphs $(G_1, G_2)$ is grown in two stages: until time $t_\star$ they are grown together (i.e., $G_1 = G_2$), after which they grow independently according to the underlying growth model.
+
+We show that whenever the seed graph has an influence in the underlying graph growth model—this has been shown for PA and UA trees and is conjectured to hold broadly—then correlation can be detected in this model, even if the graphs are grown together for just a single time step. We also give a general sufficient condition (which holds for PA and UA trees) under which detection is possible with probability going to 1 as $t_\star \to \infty$. Finally, we show for PA and UA trees that the amount of correlation, measured by $t_\star$, can be estimated with vanishing relative error as $t_\star \to \infty$.},
+html={https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-2/Correlated-randomly-growing-graphs/10.1214/21-AAP1703.short},
+bibtex_show={true},
+abbr={AAP}
+}
+
 @inproceedings{racz2021correlated,
 title={Correlated {S}tochastic {B}lock {M}odels: {E}xact {G}raph {M}atching with {A}pplications to {R}ecovering {C}ommunities},
 author={Rácz, Miklós Z. and Sridhar, Anirudh},
