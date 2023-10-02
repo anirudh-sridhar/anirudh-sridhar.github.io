@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2016-8-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+[Paper on mean-field approximations for stochastic processes on networks](https://arxiv.org/abs/2101.09644) accepted to the SIAM Journal on Control and Optimization (SICON). Joint work with Soummya Kar.
