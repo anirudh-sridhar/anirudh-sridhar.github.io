@@ -25,6 +25,32 @@ bibtex_show={true},
 abbr={COLT 2022}
 }
 
+@article{sridhar2023meanfield,
+title={Mean-field {A}pproximations for {S}tochastic {P}opulation {P}rocesses with {H}eterogeneous {I}nteractions},
+author={Sridhar, Anirudh and Kar, Soummya},
+journal={To appear in the {SIAM} {J}ournal on {C}ontrol and {O}ptimization},
+year={2023},
+abstract={This paper studies a general class of stochastic population processes in which agents interact with one another over a network. Agents update their behaviors in a random and decentralized manner according to a policy that depends only on the agent's current state and an estimate of the macroscopic population state, given by a weighted average of the neighboring states. When the number of agents is large and the network is a complete graph (has all-to-all information access), the macroscopic behavior of the population can be well-approximated by a set of deterministic differential equations called a {\it mean-field approximation}. For incomplete networks such characterizations remained previously unclear, i.e., in general whether a suitable mean-field approximation exists for the macroscopic behavior of the population. The paper addresses this gap by establishing a generic theory describing when various mean-field approximations are accurate for \emph{arbitrary} interaction structures.
+Our results are threefold. Letting W be the matrix describing agent interactions, we first show that a simple mean-field approximation that incorrectly assumes a homogeneous interaction structure is accurate provided W has a large spectral gap. Second, we show that a more complex mean-field approximation which takes into account agent interactions is accurate as long as the Frobenius norm of W is small. Finally, we compare the predictions of the two mean-field approximations through simulations, highlighting cases where using mean-field approximations that assume a homogeneous interaction structure can lead to inaccurate qualitative and quantitative predictions.},
+html={https://arxiv.org/abs/2101.09644},
+bibtex_show={true},
+abbr={SICON}
+}
+
+@article{tian2023role,
+title={The {R}ole of {M}asks in {M}itigating {V}iral {S}pread on {N}etworks},
+author={Tian, Yurun and Sridhar, Anirudh and Wu, Chai Wah and Levin, Simon A. and Carley, Kathleen M. and Poor, H. Vincent and Yagan, Osman},
+journal={Physical {R}eview E},
+month={July},
+year={2023},
+volume={108},
+pages={014306},
+abstract={Masks have remained an important mitigation strategy in the fight against COVID-19 due to their ability to prevent the transmission of respiratory droplets between individuals. In this work, we provide a comprehensive quantitative analysis of the impact of mask-wearing. To this end, we propose a novel agent-based model of viral spread on networks where agents may either wear no mask or wear one of several types of masks with different properties (e.g., cloth or surgical). We derive analytical expressions for three key epidemiological quantities: The probability of emergence, the epidemic threshold, and the expected epidemic size. In particular, we show how the aforementioned quantities depend on the structure of the contact network, viral transmission dynamics, and the distribution of the different types of masks within the population. Through extensive simulations, we then investigate the impact of different allocations of masks within the population and tradeoffs between the outward efficiency and inward efficiency of the masks. Interestingly, we find that masks with high outward efficiency and low inward efficiency are most useful for controlling the spread in the early stages of an epidemic, while masks with high inward efficiency but low outward efficiency are most useful in reducing the size of an already large spread. Last, we study whether degree-based mask allocation is more effective in reducing the probability of epidemic as well as epidemic size compared to random allocation. The result echoes the previous findings that mitigation strategies should differ based on the stage of the spreading process, focusing on source control before the epidemic emerges and on self-protection after the emergence.},
+html={https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.014306},
+bibtex_show={true},
+abbr={PhysRevE}
+}
+
 @article{sood2023spreading,
 title={Spreading {P}rocesses with {M}utations over {M}ulti-{L}ayer {N}etworks},
 author={Sood, Mansi and Sridhar, Anirudh and Eletreby, Rashad and Wu, Chai Wah and Levin, Simon A. and Poor, H. Vincent and Yagan, Osman},
@@ -52,7 +78,7 @@ pages={2494 -- 2522},
 abstract={We study the problem of estimating the source of a network cascade given a time series of noisy information about the spread. Initially, there is a single vertex affected by the cascade (the source) and the cascade spreads in discrete time steps across the network. Although the cascade evolution is hidden, one observes a noisy measurement of the evolution at each time step. Given this information, we aim to reliably estimate the cascade source as fast as possible. We investigate Bayesian and minimax formulations of the source estimation problem, and derive near-optimal estimators for simple cascade dynamics and network topologies. In the Bayesian setting, samples are taken until the error of the Bayes-optimal estimator falls below a threshold. For the minimax setting, we design a novel multi-hypothesis sequential probability ratio test. These optimal estimators require $\log \log n / \log (k- 1)$ observations for a $k$-regular tree network, and $(\log n)^{1 / (\ell + 1)}$ observations for a $\ell$-dimensional lattice. We then discuss conjectures on source estimation in general topologies. Finally, we provide simulations which validate our theoretical results on trees and lattices, and illustrate the effectiveness of our methods for estimating the sources of cascades on Erdős-Rényi graphs.},
 html={https://ieeexplore.ieee.org/document/9940314},
 bibtex_show={true},
-abbr={IEEE Trans. Info. Theory}
+abbr={IEEE-IT}
 }
 
 @article{racz2022correlated,
