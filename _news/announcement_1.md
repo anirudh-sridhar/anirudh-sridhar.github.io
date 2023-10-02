@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be giving a talk and chairing a session at the Informs 2023 conference on *Community Detection in Networks*.
+I will be giving a talk and chairing a session at the Informs 2023 conference on *Community Detection in Networks*. 
