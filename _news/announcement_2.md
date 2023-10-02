@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[New paper](https://arxiv.org/abs/2211.16454) on the average-case and smoothed complexity of graph isomorphism. Joint work with Miki Rácz and Julia Gaudio.
+[New paper on the average-case and smoothed complexity of graph isomorphism.](https://arxiv.org/abs/2211.16454) Joint work with Miki Rácz and Julia Gaudio.
