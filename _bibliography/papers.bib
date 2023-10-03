@@ -3,6 +3,54 @@
 
 @string{aps = {American Physical Society,}}
 
+@inproceedings{sridhar2021bayes,
+title={Bayes-{O}ptimal {M}ethods for {F}inding the {S}ource of a {C}ascade},
+author={Sridhar, Anirudh and Poor, H. Vincent},
+month={June},
+year={2021},
+booktitle={Proceedings of the 46th {IEEE} {I}nternational {C}onference on {A}coustics, {S}peech, and {S}ignal Processing},
+abstract={We study the problem of estimating the source of a network cascade. The cascade initially starts from a single vertex and spreads deterministically over time, but only a noisy version of the propagation is observable. The goal is then to design a stopping time and estimator that will estimate the source well while ensuring the number of affected vertices is not too large. We rigorously formulate a Bayesian approach to the problem. If vertices can be labelled by vectors in Euclidean space (which is natural in spatial networks), the optimal estimator is the conditional mean estimator, and we derive an explicit form for the optimal stopping time under minimal assumptions on the cascade dynamics. We study the performance of the optimal stopping time on lattices, and show that a computationally efficient but suboptimal stopping time which compares the posterior variance to a threshold has near-optimal performance.},
+html={https://ieeexplore.ieee.org/document/9414392},
+bibtex_show={true},
+abbr={ICASSP 2021}
+}
+
+@inproceedings{tian2021analysis,
+title={Analysis of the {I}mpact of {M}ask-wearing in {V}iral {S}pread: {I}mplications for {COVID-19}.},
+author={Tian, Yurun and Sridhar, Anirudh and Yagan, Osman and Poor, H. Vincent},
+month={May},
+year={2021},
+booktitle={Proceedings of the 2021 {A}merican {C}ontrol {C}onference},
+abstract={Masks are used as part of a comprehensive strategy of measures to limit transmission and save lives during the COVID-19 pandemic. Research about the impact of mask-wearing in the COVID-19 pandemic has raised formidable interest across multiple disciplines. In this paper, we investigate the impact of mask-wearing in spreading processes over complex networks. This is done by studying a heterogeneous bond percolation process over a multi-type network model, where nodes can be one of two types (mask-wearing, and not-mask-wearing). We provide analytical results that accurately predict the expected epidemic size and probability of emergence as functions of the characteristics of the spreading process (e.g., transmission probabilities, inward and outward efficiency of the masks, etc.), the proportion of mask-wearers in the population, and the structure of the underlying contact network. In addition to the theoretical analysis, we also conduct extensive simulations on random networks. We also comment on the analogy between the mask-model studied here and the multiple-strain viral spreading model with mutations studied recently by Eletreby et al.},
+html={https://ieeexplore.ieee.org/document/9482733},
+bibtex_show={true},
+abbr={ACC 2021}
+}
+
+@inproceedings{sridhar2020sequential,
+title={Sequential {E}stimation of {N}etwork {C}ascades},
+author={Sridhar, Anirudh and Poor, H. Vincent},
+month={Nov},
+year={2020},
+booktitle={Proceedings of the 54th Asilomar Conference on Signals, Systems and Computers},
+abstract={We consider the problem of locating the source of a network cascade, given a noisy time-series of network data. Initially, the cascade starts with one unknown, affected vertex and spreads deterministically at each time step. The goal is to find an adaptive procedure that outputs an estimate for the source as fast as possible, subject to a bound on the estimation error. For a general class of graphs, we describe a family of matrix sequential probability ratio tests (MSPRTs) that are first-order asymptotically optimal up to a constant factor as the estimation error tends to zero. We apply our results to lattices and regular trees, and show that MSPRTs are asymptotically optimal for regular trees. We support our theoretical results with simulations.},
+html={https://ieeexplore.ieee.org/document/9443409},
+bibtex_show={true},
+abbr={Asilomar 2020}
+}
+
+@inproceedings{swenson2020distributed,
+title={On {D}istributed {S}tochastic {G}radient {A}lgorithms for {G}lobal {O}ptimization},
+author={Swenson, Brian and Sridhar, Anirudh and Poor, H. Vincent},
+month={May},
+year={2020},
+booktitle={Proceedings of the 45th {IEEE} {I}nternational {C}onference on {A}coustics, {S}peech, and {S}ignal Processing},
+abstract={The paper considers the problem of network-based computation of global minima in smooth nonconvex optimization problems. It is known that distributed gradient-descent-type algorithms can achieve convergence to the set of global minima by adding slowly decaying Gaussian noise in order to escape local minima. However, the technical assumptions under which convergence is known to occur can be restrictive in practice. In particular, in known convergence results, the local objective functions possessed by agents are required to satisfy a highly restrictive bounded-gradient-dissimilarity condition. The paper demonstrates convergence to the set of global minima while relaxing this key assumption.},
+html={https://ieeexplore.ieee.org/document/9054279},
+bibtex_show={true},
+abbr={ICASSP 2020}
+}
+
 @inproceedings{machado2023recovering,
 title={{R}ecovering the {G}raph {U}nderlying {N}etworked {D}ynamical {S}ystems under {P}artial {O}bservability: {A} {D}eep {L}earning {A}pproach},
 author={Machado, Sérgio and Sridhar, Anirudh and Gil, Paulo and Henriques, Jorge and Moura, José M. F. and Santos, Augusto},
@@ -31,7 +79,7 @@ author={Gaudio, Julia and Rácz, Miklós Z. and Sridhar, Anirudh},
 journal={In submission},
 year={2023},
 abstract={We propose a simple and efficient local algorithm for graph isomorphism which succeeds for a large class of sparse graphs. This algorithm produces a low-depth canonical labeling, which is a labeling of the vertices of the graph that identifies its isomorphism class using vertices' local neighborhoods.
-Prior work by Czajka and Pandurangan showed that the degree profile of a vertex (i.e., the sorted list of the degrees of its neighbors) gives a canonical labeling with high probability when $np_n = \omega ( \log^4 (n) / \log \log n)$ (and $p_n≤1/2$); subsequently, Mossel and Ross showed that the same holds when $np_n=\omega(log2(n))$. We first show that their analysis essentially cannot be improved: we prove that when npn=o(log2(n)/(loglogn)3), with high probability there exist distinct vertices with isomorphic 2-neighborhoods. Our first main result is a positive counterpart to this, showing that 3-neighborhoods give a canonical labeling when $np_≥(1 + \delta) log n$ (and $p_n≤1/2$); this improves a recent result of Ding, Ma, Wu, and Xu, completing the picture above the connectivity threshold.
+Prior work by Czajka and Pandurangan showed that the degree profile of a vertex (i.e., the sorted list of the degrees of its neighbors) gives a canonical labeling with high probability when $$np_n = \omega ( \log^4 (n) / \log \log n)$$ (and $p_n≤1/2$); subsequently, Mossel and Ross showed that the same holds when $np_n=\omega(log2(n))$. We first show that their analysis essentially cannot be improved: we prove that when npn=o(log2(n)/(loglogn)3), with high probability there exist distinct vertices with isomorphic 2-neighborhoods. Our first main result is a positive counterpart to this, showing that 3-neighborhoods give a canonical labeling when $np_≥(1 + \delta) log n$ (and $p_n≤1/2$); this improves a recent result of Ding, Ma, Wu, and Xu, completing the picture above the connectivity threshold.
 Our second main result is a smoothed analysis of graph isomorphism, showing that for a large class of deterministic graphs, a small random perturbation ensures that 3-neighborhoods give a canonical labeling with high probability. While the worst-case complexity of graph isomorphism is still unknown, this shows that graph isomorphism has polynomial smoothed complexity.},
 html={https://arxiv.org/abs/2211.16454},
 bibtex_show={true}
