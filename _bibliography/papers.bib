@@ -91,6 +91,7 @@ abbr={ICASSP 2020}
 title={{R}ecovering the {G}raph {U}nderlying {N}etworked {D}ynamical {S}ystems under {P}artial {O}bservability: {A} {D}eep {L}earning {A}pproach},
 author={Machado, Sérgio and Sridhar, Anirudh and Gil, Paulo and Henriques, Jorge and Moura, José M. F. and Santos, Augusto},
 year={2023},
+month={Feb},
 booktitle={Proceedings of the 37th {AAAI} {C}onference on {A}rtificial {I}ntelligence},
 abstract={We study the problem of graph structure identification, i.e., of recovering the graph of dependencies among time series. We model these time series data as components of the state of linear stochastic networked dynamical systems. We assume partial observability, where the state evolution of only a subset of nodes comprising the network is observed. We propose a new feature-based paradigm: to each pair of nodes, we compute a feature vector from the observed time series. We prove that these features are linearly separable, i.e., there exists a hyperplane that separates the cluster of features associated with connected pairs of nodes from those of disconnected pairs. This renders the features amenable to train a variety of classifiers to perform causal inference. In particular, we use these features to train Convolutional Neural Networks (CNNs). The resulting causal inference mechanism outperforms state-of-the-art counterparts w.r.t. sample-complexity. The trained CNNs generalize well over structurally distinct networks (dense or sparse) and noise-level profiles. Remarkably, they also generalize well to real-world networks while trained over a synthetic network -- namely, a particular realization of a random graph.},
 html={https://ojs.aaai.org/index.php/AAAI/article/view/26085},
@@ -101,6 +102,7 @@ abbr={AAAI 2023}
 @inproceedings{gaudio2022exact,
 title={{E}xact {C}ommunity {R}ecovery in {C}orrelated {S}tochastic {B}lock {M}odels},
 author={Gaudio, Julia and Rácz, Miklós Z. and Sridhar, Anirudh},
+month={July},
 year={2022},
 booktitle={Proceedings of the 35th {A}nnual {C}onference on {L}earning {T}heory},
 abstract={We consider the problem of learning latent community structure from multiple correlated networks. We study edge-correlated stochastic block models with two balanced communities, focusing on the regime where the average degree is logarithmic in the number of vertices. Our main result derives the precise information-theoretic threshold for exact community recovery using multiple correlated graphs. This threshold captures the interplay between the community recovery and graph matching tasks. In particular, we uncover and characterize a region of the parameter space where exact community recovery is possible using multiple correlated graphs, even though (1) this is information-theoretically impossible using a single graph and (2) exact graph matching is also information-theoretically impossible. In this regime, we develop a novel algorithm that carefully synthesizes algorithms from the community recovery and graph matching literatures.},
@@ -114,6 +116,7 @@ selected={true}
 title={Average-case and {S}moothed {A}nalysis of {G}raph {I}somorphism},
 author={Gaudio, Julia and Rácz, Miklós Z. and Sridhar, Anirudh},
 journal={Preprint},
+month={Sep},
 year={2023},
 abstract={We propose a simple and efficient local algorithm for graph isomorphism which succeeds for a large class of sparse graphs. This algorithm produces a low-depth canonical labeling, which is a labeling of the vertices of the graph that identifies its isomorphism class using vertices' local neighborhoods.
 Prior work by Czajka and Pandurangan showed that the degree profile of a vertex (i.e., the sorted list of the degrees of its neighbors) gives a canonical labeling with high probability when $$np_n = \omega ( \log^4 (n) / \log \log n)$$ (and $p_n≤1/2$); subsequently, Mossel and Ross showed that the same holds when $np_n=\omega(log2(n))$. We first show that their analysis essentially cannot be improved: we prove that when npn=o(log2(n)/(loglogn)3), with high probability there exist distinct vertices with isomorphic 2-neighborhoods. Our first main result is a positive counterpart to this, showing that 3-neighborhoods give a canonical labeling when $np_≥(1 + \delta) log n$ (and $p_n≤1/2$); this improves a recent result of Ding, Ma, Wu, and Xu, completing the picture above the connectivity threshold.
@@ -128,6 +131,7 @@ title={Mean-field {A}pproximations for {S}tochastic {P}opulation {P}rocesses wit
 author={Sridhar, Anirudh and Kar, Soummya},
 journal={To appear in the {SIAM} {J}ournal on {C}ontrol and {O}ptimization},
 year={2023},
+month={Aug},
 abstract={This paper studies a general class of stochastic population processes in which agents interact with one another over a network. Agents update their behaviors in a random and decentralized manner according to a policy that depends only on the agent's current state and an estimate of the macroscopic population state, given by a weighted average of the neighboring states. When the number of agents is large and the network is a complete graph (has all-to-all information access), the macroscopic behavior of the population can be well-approximated by a set of deterministic differential equations called a {\it mean-field approximation}. For incomplete networks such characterizations remained previously unclear, i.e., in general whether a suitable mean-field approximation exists for the macroscopic behavior of the population. The paper addresses this gap by establishing a generic theory describing when various mean-field approximations are accurate for \emph{arbitrary} interaction structures.
 Our results are threefold. Letting W be the matrix describing agent interactions, we first show that a simple mean-field approximation that incorrectly assumes a homogeneous interaction structure is accurate provided W has a large spectral gap. Second, we show that a more complex mean-field approximation which takes into account agent interactions is accurate as long as the Frobenius norm of W is small. Finally, we compare the predictions of the two mean-field approximations through simulations, highlighting cases where using mean-field approximations that assume a homogeneous interaction structure can lead to inaccurate qualitative and quantitative predictions.},
 html={https://arxiv.org/abs/2101.09644},
@@ -202,6 +206,7 @@ abbr={AAP}
 @inproceedings{racz2021correlated,
 title={Correlated {S}tochastic {B}lock {M}odels: {E}xact {G}raph {M}atching with {A}pplications to {R}ecovering {C}ommunities},
 author={Rácz, Miklós Z. and Sridhar, Anirudh},
+month={Dec},
 year={2021},
 booktitle={Proceedings of the 35th Conference on Neural Information Processing Systems},
 abstract={We consider the task of learning latent community structure from multiple correlated networks. First, we study the problem of learning the latent vertex correspondence between two edge-correlated stochastic block models, focusing on the regime where the average degree is logarithmic in the number of vertices. We derive the precise information-theoretic threshold for exact recovery: above the threshold there exists an estimator that outputs the true correspondence with probability close to 1, while below it no estimator can recover the true correspondence with probability bounded away from 0. As an application of our results, we show how one can exactly recover the latent communities using \emph{multiple} correlated graphs in parameter regimes where it is information-theoretically impossible to do so using just a single graph.},
@@ -226,6 +231,7 @@ abbr={HDSR}
 @inproceedings{blocki2016client,
 title={Client-{CASH}: Protecting {M}aster {P}asswords {A}gainst {O}ffline {A}ttacks},
 author={Blocki, Jeremiah and Sridhar, Anirudh},
+month={May},
 year={2016},
 booktitle={Proceedings of the 11th ACM Asia Conference on Computer and Communications Security},
 bibtex_show={true},
