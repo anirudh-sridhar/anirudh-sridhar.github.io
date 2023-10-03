@@ -23,4 +23,4 @@ I am a postdoctoral associate at the Mathematics Department at MIT, working with
 - **Modeling network cascades.** How does a cascading process -- such as misinformation in social networks, malware in computer networks, or a virus in a human population -- evolve over time? And how does the evolution depend on viral mutations, mitigation measures, and the interactions between individuals? I tackle this question from various angles, highlighting the interplay between network topology and cascade characteristics. 
 - **Inference, learning and mitigation of network cascades.** The rapid spread of the coronavirus underscored a need to develop more sophisticated techniques for learning about new pathogens and tracking their spread *before* they cause too much damage. My research establishes fundamental, data-driven solutions to these challenges, with a focus on information-theoretic characterizations.
 
-For additional details, you can check out my [CV](assets/pdf/cv.pdf).
+For additional details, you can check out my [CV](assets/pdf/cv.pdf) or my [Google Scholar page](https://scholar.google.com/citations?user=3VUyvg0AAAAJ&hl=en&oi=ao).
