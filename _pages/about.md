@@ -6,7 +6,7 @@ subtitle: Postdoc @ MIT Mathematics
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: anirudh_sridhar_njit.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>MIT 2-246A</p>
