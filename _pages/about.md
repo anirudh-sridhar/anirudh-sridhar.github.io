@@ -26,4 +26,4 @@ For additional details, you can check out my [Google Scholar page](https://schol
 
 **Openings for students are available. If you have a strong mathematical background and are interested in working in my group, please [apply to our PhD program](https://www.njit.edu/admissions/phd-programs) and reach out to me via email.**
 
-**Upcoming talks:** Rutgers CS Theory Seminar (Feb 18), American Control Conference (May), International Workshop in Sequential Methodologies (June)
+**Upcoming talks:** Rutgers CS Theory Seminar (Feb 18), Lehigh and University of Minnesota Joint Probability Seminar (Feb 27), American Control Conference (May), International Workshop in Sequential Methodologies (June)
